@@ -1,4 +1,47 @@
+# robots.txt — blog.sassycalculator.com
+# Updated May 2026
+
+# === STANDARD SEARCH CRAWLERS ===
 User-agent: *
 Allow: /
 
+# === AI SEARCH CRAWLERS (citation/retrieval — ALLOW) ===
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: BingBot
+Allow: /
+
+# === AI TRAINING CRAWLERS (block) ===
+User-agent: Bytespider
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# === SITEMAP ===
 Sitemap: https://blog.sassycalculator.com/sitemap.xml
