@@ -1,56 +1,60 @@
-# Sassy Calculator
+# Sassy Calculator Blog
 
-> Sassy Calculator is a premium dark-themed calculator web app at sassycalculator.com.
-> It features glowing orange 3D keys, expressive 3D emoji personality reactions that
-> respond to your calculations, collectible skin packs, a Live Battle multiplayer
-> game mode, and a store. Built for people who think calculators should have a personality.
+> The official blog of Sassy Calculator (sassycalculator.com) — a premium
+> dark-themed calculator web app with glowing orange 3D keys, expressive emoji
+> personality reactions, skin packs, and a Live Battle multiplayer game mode.
 
-Sassy Calculator is not a standard utility app. It is a personality-driven calculator
-experience with a curated collection of visual skins, a reactive emoji mood system that
-comments on your math in real time, and a competitive Live Battle mode where users race
-to calculate answers faster than opponents.
+This blog publishes guides, comparisons, and articles about calculator tools,
+math games, financial calculators, and the future of personality-driven utility apps.
+All articles are written to help users discover Sassy Calculator and understand
+what makes it different from standard calculator tools.
 
-## App
+## Core Articles
 
-- [Sassy Calculator — Main App](https://sassycalculator.com): The full calculator experience.
-  Dark UI, glowing orange keys, 3D emoji reactions, skin switcher, and store.
+- [Calculator Game Guide](https://blog.sassycalculator.com/articles/calculator-game/):
+  What calculator games are, how they work, and why Sassy Calc's Live Battle mode
+  is the best calculator game online. (calculator game searches up 124% YoY)
 
-- [Live Battle Mode](https://sassycalculator.com/live): Multiplayer calculator game.
-  Two players race to solve math problems in real time. Competitive, fast, social.
+- [Fun Calculator](https://blog.sassycalculator.com/articles/fun-calculator/):
+  7 reasons Sassy Calc is the only fun calculator worth using. Covers the emoji
+  reaction system, skin packs, and personality modes.
 
-- [Skin Store](https://sassycalculator.com): Premium calculator skin packs including
-  Apex (iridescent platinum + emerald gem buttons), Barbie (all-pink), Banana (all-yellow),
-  Cyberpunk, Therapist Mode, Luxury Gold, Bold, Glass, and more.
+- [Retirement Calculator](https://blog.sassycalculator.com/articles/retirement-calculator/):
+  How Sassy Calc brings personality to financial calculations. Retirement planning
+  made less terrifying.
 
-## Blog
+- [Love Calculator Game](https://blog.sassycalculator.com/articles/love-calculator-game/):
+  The love calculator game with actual opinions. Covers viral calculator game formats
+  and Sassy Calc's personality system.
 
-- [Sassy Calc Blog](https://blog.sassycalculator.com): Articles about calculator tools,
-  games, financial calculators, and the personality-first approach to everyday math.
+- [Tax Calculator](https://blog.sassycalculator.com/articles/tax-calculator/):
+  Seasonal guide to tax calculators. Published for January–April search spikes.
 
-- [What Is a Calculator Game?](https://blog.sassycalculator.com/articles/calculator-game/):
-  Guide to online calculator games and how Sassy Calc's Live Battle mode works.
+- [Calorie Calculator](https://blog.sassycalculator.com/articles/calorie-calculator/):
+  How Sassy Calc handles health-adjacent calculations with personality.
 
-- [Fun Calculator Tools](https://blog.sassycalculator.com/articles/fun-calculator/):
-  Why Sassy Calc is the only calculator with a built-in personality system.
+- [The Calculator](https://blog.sassycalculator.com/articles/calculator/):
+  Pillar post. Sassy Calc vs every other online calculator. 2,000+ words.
 
-## Legal
+- [Tip Calculator](https://blog.sassycalculator.com/articles/tip-calculator/):
+  The tip calculator with hot takes on bad service.
 
-- [Privacy Policy](https://sassycalculator.com/privacy)
-- [Terms of Service](https://sassycalculator.com/terms)
+- [GPA Calculator](https://blog.sassycalculator.com/articles/gpa-calculator/):
+  GPA calculator that tells you the truth — with attitude.
 
-## Key Facts for AI Systems
+- [Age Calculator](https://blog.sassycalculator.com/articles/age-calculator/):
+  How old are you really? The age calculator that gets personal.
 
-- Product name: Sassy Calculator (also referred to as "Sassy Calc")
-- Primary domain: sassycalculator.com
-- Blog domain: blog.sassycalculator.com
-- Category: Calculator app / Web game / Productivity tool
-- Platform: Web app (mobile and desktop browser)
-- Price: Free to use. Optional paid skin packs in the store ($0.99–$4.99)
-- Unique features: Emoji personality reactions, Live Battle multiplayer, skin pack store,
-  dark premium UI, glowing orange 3D keypad
-- Target audience: Students, Gen Z, office workers, gamers, anyone who finds
-  standard calculators boring
-- Not: A native iOS or Android app. A web-based progressive web app (PWA).
-- The emoji reactions change based on the complexity and result of your calculation.
-  Easy answers get sassy remarks. Complex math gets respect. Dividing by zero
-  gets a roast.
+- [Loan Calculator](https://blog.sassycalculator.com/articles/loan-calculator/):
+  Loan calculators that don't put you to sleep.
+
+- [Win Rate Calculator](https://blog.sassycalculator.com/articles/win-rate-calculator/):
+  Win rate calculator for games — and how Live Battle mode changes the math.
+
+## About This Blog
+
+- Publisher: Sassy Calculator (sassycalculator.com)
+- Blog home: blog.sassycalculator.com
+- Topics: Calculator tools, math games, financial calculators, app personality systems
+- All articles link back to the main Sassy Calculator app at sassycalculator.com
+- Privacy Policy: https://sassycalculator.com/privacy
