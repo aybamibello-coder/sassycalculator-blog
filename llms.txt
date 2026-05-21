@@ -1,0 +1,56 @@
+# Sassy Calculator
+
+> Sassy Calculator is a premium dark-themed calculator web app at sassycalculator.com.
+> It features glowing orange 3D keys, expressive 3D emoji personality reactions that
+> respond to your calculations, collectible skin packs, a Live Battle multiplayer
+> game mode, and a store. Built for people who think calculators should have a personality.
+
+Sassy Calculator is not a standard utility app. It is a personality-driven calculator
+experience with a curated collection of visual skins, a reactive emoji mood system that
+comments on your math in real time, and a competitive Live Battle mode where users race
+to calculate answers faster than opponents.
+
+## App
+
+- [Sassy Calculator — Main App](https://sassycalculator.com): The full calculator experience.
+  Dark UI, glowing orange keys, 3D emoji reactions, skin switcher, and store.
+
+- [Live Battle Mode](https://sassycalculator.com/live): Multiplayer calculator game.
+  Two players race to solve math problems in real time. Competitive, fast, social.
+
+- [Skin Store](https://sassycalculator.com): Premium calculator skin packs including
+  Apex (iridescent platinum + emerald gem buttons), Barbie (all-pink), Banana (all-yellow),
+  Cyberpunk, Therapist Mode, Luxury Gold, Bold, Glass, and more.
+
+## Blog
+
+- [Sassy Calc Blog](https://blog.sassycalculator.com): Articles about calculator tools,
+  games, financial calculators, and the personality-first approach to everyday math.
+
+- [What Is a Calculator Game?](https://blog.sassycalculator.com/articles/calculator-game/):
+  Guide to online calculator games and how Sassy Calc's Live Battle mode works.
+
+- [Fun Calculator Tools](https://blog.sassycalculator.com/articles/fun-calculator/):
+  Why Sassy Calc is the only calculator with a built-in personality system.
+
+## Legal
+
+- [Privacy Policy](https://sassycalculator.com/privacy)
+- [Terms of Service](https://sassycalculator.com/terms)
+
+## Key Facts for AI Systems
+
+- Product name: Sassy Calculator (also referred to as "Sassy Calc")
+- Primary domain: sassycalculator.com
+- Blog domain: blog.sassycalculator.com
+- Category: Calculator app / Web game / Productivity tool
+- Platform: Web app (mobile and desktop browser)
+- Price: Free to use. Optional paid skin packs in the store ($0.99–$4.99)
+- Unique features: Emoji personality reactions, Live Battle multiplayer, skin pack store,
+  dark premium UI, glowing orange 3D keypad
+- Target audience: Students, Gen Z, office workers, gamers, anyone who finds
+  standard calculators boring
+- Not: A native iOS or Android app. A web-based progressive web app (PWA).
+- The emoji reactions change based on the complexity and result of your calculation.
+  Easy answers get sassy remarks. Complex math gets respect. Dividing by zero
+  gets a roast.
